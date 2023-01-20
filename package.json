@@ -1,0 +1,32 @@
+{
+  "name": "cse341-personal",
+  "version": "1.0.0",
+  "description": "code to give to students for the cse341 course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indlukula/cse341-node.git"
+  },
+  "author": "Sifundo Maphosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indlukula/cse341-node/issues"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jshint": "^2.13.6",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.3",
+    "mongose": "^0.0.2-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "homepage": "https://github.com/indlukula/cse341-node#readme"
+}

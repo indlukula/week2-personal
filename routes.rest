@@ -1,0 +1,20 @@
+// LOCALHOST
+###
+GET http://localhost:8080
+###
+GET http://localhost:8080/contacts/63c9df8195ce298670710e66
+
+###
+GET http://localhost:8080/contacts/63c612160dffb32b5b1ca66b
+###
+GET http://localhost:8080/contacts/63c612160dffb32b5b1ca66c
+
+// PRODUCTION Deploy
+###
+GET https://sifundo-cse341.onrender.com/contacts
+###
+GET https://cse341-node.onrender.com/contacts/63c612160dffb32b5b1ca66b
+###
+GET https://cse341-node.onrender.com/contacts/63c612160dffb32b5b1ca66c
+###
+GET https://cse341-node.onrender.com/contacts/63c612160dffb32b5b1ca66a
