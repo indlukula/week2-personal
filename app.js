@@ -1,10 +1,10 @@
 /*jshint esversion: 6*/ 
-var express = require('express');
-var bodyParser = require('body-parser');
-var mongodb = require('./db/connect');
+const express = require('express');
+const bodyParser = require('body-parser');
+const mongodb = require('./db/connect');
 
-var port = process.env.PORT || 8080;
-var app = express();
+const port = process.env.PORT || 8080;
+const app = express();
 
 app
   .use(bodyParser.json())
