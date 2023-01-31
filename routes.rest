@@ -16,10 +16,10 @@ GET http://localhost:8080/contacts/63c9df8195ce298670710e67
 GET https://sifundo-cse341.onrender.com/contacts
 
 ###
-GET https://sifundo-cse341.onrender.com/contacts/63c9df8195ce298670710e66
+GET https://sifundo-cse341-personal.onrender.com/contacts/63c9df8195ce298670710e66
 
 ###
-GET https://sifundo-cse341.onrender.com/contacts/63c9df8195ce298670710e68
+GET https://sifundo-cse341-personal.onrender.com/contacts/63c9df8195ce298670710e68
 
 ###
-GET https://sifundo-cse341.onrender.com/contacts/63c9df8195ce298670710e67
+GET https://sifundo-cse341-personal.onrender.com/contacts/63c9df8195ce298670710e67
