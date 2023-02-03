@@ -74,7 +74,7 @@ PUT https://sifundo-cse341-personal.onrender.com/contacts/63c9df8195ce298670710e
 }
 
 ### DELETE Contact
-DELETE https://sifundo-cse341-personal.onrender.com/contacts/63c9df8195ce298670710e68 HTTP/1.1
+DELETE https://sifundo-cse341-personal.onrender.com/contacts/63dd35007eca967915816a42 HTTP/1.1
 
 
 
